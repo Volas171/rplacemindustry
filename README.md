@@ -13,3 +13,5 @@ step 4. run and fill the captcha
 
 if console doesnt give any errors, just exists and doesnt trow lots of nonsense stuff, congratulations! you just created an account successfully
 after that dm VolleierYouKnow#8140 with the contents inside namesforreddit.txt
+
+If you dont switch ip (use a vpn) you will have to wait a timeout of 6-9 minutes to create a new account.
