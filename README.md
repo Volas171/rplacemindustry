@@ -1,4 +1,4 @@
-# rplacemindustry
+# r/place mindustry
 
 this is a python program that lets you create reddit accounts
 it is semi automatic, you still need to fill the captcha, vpn not included
