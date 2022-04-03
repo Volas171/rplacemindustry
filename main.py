@@ -5,8 +5,9 @@ import time
 import string
 import secrets
 import os
-
-driver = webdriver.Chrome(ChromeDriverManager().install())
+chrome_options = Options()
+chrome_options.add_argument("--headless")
+driver = webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options)
 
 alphabet = string.ascii_letters + string.digits
 password = ''.join(secrets.choice(alphabet) for i in range(16))
