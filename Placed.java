@@ -1,3 +1,4 @@
+ // made by marko zajc, licensed as CC0
 package placed;
 
 import static java.awt.image.BufferedImage.TYPE_INT_RGB;
