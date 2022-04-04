@@ -1,4 +1,4 @@
-#Account Creator
+# Account Creator
 
 This was done on a hurry, so dont judge my code pls, it was done using anticaptcha's chrome plugin which was imported via selenium.
 
